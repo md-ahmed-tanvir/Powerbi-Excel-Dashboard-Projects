@@ -15,7 +15,7 @@ This file contains the Adani Enterprises stock data analysis project, showcasing
 
 Below is a preview of the dashboard:
 
-![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Adani-Stock-Analysis%20(PowerBi)/Dashboard%20png.png)
+![Dashboard Preview](https://github.com/md-ahmed-tanvir/Powerbi-Excel-Dashboard-Projects/blob/main/Adani-Stock-Analysis%20(PowerBi)/Dashboard%20png.png)
 
 
 ## Key Insights
@@ -58,9 +58,22 @@ Below is a preview of the dashboard:
 **Daily Trends:** Activity patterns align with market closure on weekends.
 **Stability in Metrics:** Close and Open prices indicate consistent market confidence.
 
-## Connect with Me
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
 
-Feel free to connect with me on LinkedIn: [Shreyash Supe](https://www.linkedin.com/in/shreyashsupe/)
+This repository is for educational and professional showcase purposes only.
 
-You can also reach me via email at: [shreyashsupe11@gmail.com](mailto:shreyashsupe11@gmail.com)
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
+
 
